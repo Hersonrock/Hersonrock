@@ -12,12 +12,15 @@ Addicted to physical books 📚✨
 - 🖼 APIs & Frameworks: `WinAPI`, `DirectX`, `SDL`
 - 🕹 Currently exploring: `Modern C++`, `Game Engine Architecture`, `Low-Level Systems`, `Graphics APIs`
 
+---
+
 ## 🧰 Toolbox
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,py,linux,git,vscode,visualstudio" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
+
 ---
 
 ## 🔭 Projects Worth Clicking
