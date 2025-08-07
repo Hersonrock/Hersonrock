@@ -56,3 +56,6 @@ Addicted to physical books 📚✨
 ---
 
 > *“We don’t find beauty. We make the world beautiful by paying attention.” – [Ralph Ammer](https://www.youtube.com/watch?v=ZqlTSCvP-Z0)*
+---
+
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Ai_Hayasaka_Shinomiya_Kaguya_C_Programming_Language.png" width="400"/>
