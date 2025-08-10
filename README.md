@@ -59,3 +59,7 @@ Addicted to physical books 📚✨
 ---
 
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Ai_Hayasaka_Shinomiya_Kaguya_C_Programming_Language.png" width="400"/>
+
+## 🌈Life with Computers and programming (it actually goes even farther back but I dont remember that much)
+![My programming experience diagram](Diagram.png)
+
