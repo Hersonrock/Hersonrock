@@ -30,7 +30,7 @@ Addicted to physical books 📚✨
 | [🔧 3drenderer](https://github.com/Hersonrock/Pikuma) | A 3D software renderer using SDL2 | `C`, `SDL` |
 | [🌐 FileSplitter](https://github.com/Hersonrock/The_Linux_Programming_Interface/tree/main/ch4/reelseiden) | Splits files using raw Linux syscalls | `C`, `Linux` |
 | [🎮 C-Study Exercises](https://github.com/Hersonrock/C-AModernApproach) | Structured exercises from *C: A Modern Approach* | `C` |
-
+| [👾 Auriga](https://github.com/Hersonrock/Auriga) | 2D shooter | `C++`, `Directx9`, `WinAPI`|
 ---
 
 ## 📈 GitHub Stats
